@@ -1,0 +1,27 @@
+{
+  "name": "express_app",
+  "version": "1.0.0",
+  "description": "https://www.theodinproject.com/lessons/nodejs-introduction-to-express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustWaveThings/express_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustWaveThings/express_app/issues"
+  },
+  "homepage": "https://github.com/JustWaveThings/express_app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.45.0"
+  }
+}
